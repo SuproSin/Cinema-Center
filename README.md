@@ -1,3 +1,6 @@
+#Use this link to run the application.
+https://suprosin.github.io/Cinema_Center/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
