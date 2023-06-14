@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cinema-Center/static/css/main.07fc06fc.css",
-    "main.js": "/Cinema-Center/static/js/main.14e037dd.js",
+    "main.js": "/Cinema-Center/static/js/main.d8c2abad.js",
     "static/media/search.svg": "/Cinema-Center/static/media/search.773b53a303e09f96e430593a46c63717.svg",
     "index.html": "/Cinema-Center/index.html",
     "main.07fc06fc.css.map": "/Cinema-Center/static/css/main.07fc06fc.css.map",
-    "main.14e037dd.js.map": "/Cinema-Center/static/js/main.14e037dd.js.map"
+    "main.d8c2abad.js.map": "/Cinema-Center/static/js/main.d8c2abad.js.map"
   },
   "entrypoints": [
     "static/css/main.07fc06fc.css",
-    "static/js/main.14e037dd.js"
+    "static/js/main.d8c2abad.js"
   ]
 }
