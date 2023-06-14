@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cinema-Center.github.io/static/css/main.07fc06fc.css",
+    "main.js": "/Cinema-Center.github.io/static/js/main.0ecaf9cd.js",
+    "static/media/search.svg": "/Cinema-Center.github.io/static/media/search.773b53a303e09f96e430593a46c63717.svg",
+    "index.html": "/Cinema-Center.github.io/index.html",
+    "main.07fc06fc.css.map": "/Cinema-Center.github.io/static/css/main.07fc06fc.css.map",
+    "main.0ecaf9cd.js.map": "/Cinema-Center.github.io/static/js/main.0ecaf9cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fc06fc.css",
+    "static/js/main.0ecaf9cd.js"
+  ]
+}
