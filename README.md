@@ -1,5 +1,7 @@
 # Use this link to run the application.
 
+https://suprosin.github.io/Cinema-Center/
+
 
 # Getting Started with Create React App
 
